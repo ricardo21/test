@@ -1,6 +1,6 @@
 <?php
 
-require_once dirname(__FILE__) . '/class.php';
+require_once dirname(__FILE__) . '/../class.php';
 
 /**
  * Test class for RomanNumerals.
